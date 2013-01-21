@@ -1,6 +1,8 @@
 bitaddress.org
 JavaScript Client-Side Bitcoin Wallet Generator
 
+*** This fork (pull request pending) can be viewed at http://scintill.github.com/bitaddress.org-bip38.html ***
+
 Now Bitcoin addresses and their corresponding private key can be conveniently 
 generated in a web browser.
 
